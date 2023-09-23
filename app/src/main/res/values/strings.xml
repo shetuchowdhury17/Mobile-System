@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsDE</string>
+    <string name="app_fragment_container">fragment_container</string>
+</resources>
